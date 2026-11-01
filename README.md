@@ -120,7 +120,7 @@ Avant de coder dans le notebook, voici notre guide de révision. Pour chaque not
 * **Analogy / Vulgarisation :** Le **compteur de vitesse instantanée** de ta voiture. La fonction de départ te donne la distance totale parcourue depuis le début du trajet, tandis que la dérivée te donne ta vitesse exacte à un instant précis.
 * **Exemple concret :** En Machine Learning, la dérivée de la fonction d'erreur (Loss) indique à l'algorithme de combien et dans quel sens il doit ajuster ses paramètres ($w$) pour réduire ses fautes au minimum (*Descente de Gradient*).
 
-## 🚀 Installation & Guide d'Exécution
+## Installation & Guide d'Exécution
 
 Pour exécuter le projet **Philomathia** dans les meilleures conditions (que ce soit sur VS Code, Jupyter Notebook ou Google Colab), suis les étapes ci-dessous.
 
